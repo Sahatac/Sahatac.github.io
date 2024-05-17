@@ -9,8 +9,8 @@ h2{
     font-size: 2rem;
 }
 body{
-    background-image: url("/hearts.jpg");
+    background-color: #f89df1;
 }
-#fmke{
-    text-align: right;
+div{
+    margin-left: 10%;
 }
